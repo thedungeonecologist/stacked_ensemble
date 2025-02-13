@@ -1,0 +1,28 @@
+---
+title: "Quarto Template"
+author: "Darren Shoemaker"
+format: html
+toc: true
+embed-resources: true
+editor: visual
+---
+
+## Libraries
+
+```{r}
+#| output: false
+library(tidyverse)
+library(here)
+```
+
+## Read Data and Data Cleaning
+
+```{r}
+#| output: false
+dat <- read.csv(here('data/raw', ''))
+
+# Data Cleaning
+
+str(dat)
+summary(dat)
+```

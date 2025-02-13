@@ -1,0 +1,46 @@
+Habitat Variable,habitat_full_name
+SHALLOW,Excessive Shallowness
+MUDFLAT,Excessive Littoral Mudflats
+BKWATER,Insufficient Adjoining Backwaters
+CONN_BW,Insufficient Backwater Connectivity
+CONN_TR,Sedimentation Limits Tributary Connection
+N_STRUC,Insufficient Structural Habitat
+SHAL_LZ,Excessively Shallow Littoral Zone
+DIST_RZ,Riparian Disturbance
+X_NUTRI,Excessive Nutrients
+ALGAE,Algal Blooms
+SEDIMEN,Sedimentation
+SHOREER,Shoreline Erosion
+NOCOVES,Depositional Filling Reduces Cove Habitat
+SHOREHO,Shoreline Homogenization
+SUBSTHO,Littoral Substrate Homogenization
+X_MACRO,Excessive Macrophytes
+N_MACRO,Insufficient Macrophytes
+NN_PLNT,Invasive Plants
+NN_ANIM,Invasive Animals Altering Habitat
+N_SHADE,Insufficient Bank Shading
+N_ALLOC,Insufficient Allochthonous Input
+WS_AGRI,Harmful Agriculture in Watershed
+WS_ANIM,Harmful Livestock in Watershed
+WS_LOGS,Harmful Logging in Watershed
+N_NUTRI,Insufficient Nutrients
+IN_TURB,Excessive Turbidity
+OR_TURB,Excessive Organic Turbidity
+VAR_TUR,Extreme Seasonal Turbidity Variation
+VAR_DO2,Harmful Daily Changes in Dissolved Oxygen
+O_STRAT,Oxygen Stratification
+HI_TEMP,Excessively High Temperatures
+LO_TEMP,Excessively Low Temperatures
+T_STRAT,Temperature Stratification
+DESTRAT,Temperature Destratification
+THERMAL,Thermal Pollution
+CONTAMN,Contaminants
+POLLNPS,Nonpoint-Source Pollution
+LOWRETE,Insufficient Retention Time
+LOWSTOR,Insufficient Water Storage
+WL_SEAS,Seasonally Mistimed Water Level Fluctuations
+WL_LONG,Excessive Long-term Drawdowns
+WLSHORT,Excessive Short-term Water Level Fluctuations
+WL_FAST,Rapid Water Level Change
+DIST_UP,Disturbances in Upstream Watersheds
+DIST_AD,Disturbances in Adjacent Watersheds
