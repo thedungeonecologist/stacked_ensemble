@@ -1,0 +1,985 @@
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold02, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold03, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold04, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold05, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold06, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold07, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold08, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold09, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 1/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 2/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 3/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 4/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 5/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 6/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 7/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 8/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 9/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 10/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 11/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 12/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 13/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 14/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 15/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 16/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 17/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 18/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 19/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 20/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 21/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 22/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 23/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 24/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold10, Repeat5: preprocessor 1/1, model 25/25:
+  Error in `maybe_matrix()`:
+  ! Some columns are non-numeric. The data cannot be converted to numeric matrix: 'CLUSID', 'WSA9'.
+x Fold01, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold02, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold03, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold04, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold05, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold06, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold07, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold08, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold09, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold10, Repeat1: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold01, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold02, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold03, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold04, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold05, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold06, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold07, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold08, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold09, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold10, Repeat2: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold01, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold02, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold03, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold04, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold05, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold06, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold07, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold08, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold09, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold10, Repeat3: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold01, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold02, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold03, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold04, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold05, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold06, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold07, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold08, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold09, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold10, Repeat4: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold01, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold02, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold03, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold04, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold05, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold06, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold07, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold08, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold09, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+x Fold10, Repeat5: preprocessor 1/1, model 1/1:
+  Error in `.check_glmnet_penalty_fit()`:
+  ! For the glmnet engine, `penalty` must be a single number (or a value of `tune()`).
+  • There are 0 values for `penalty`.
+  • To try multiple values for total regularization, use the tune package.
+  • To predict multiple penalties, use `multi_predict()`
+i Creating pre-processing data to finalize unknown parameter: mtry
+# A tibble: 1 × 13
+  expression                                                            min median `itr/sec` mem_alloc `gc/sec` n_itr  n_gc total_time result     memory     time       gc      
+  <bch:expr>                                                          <bch> <bch:>     <dbl> <bch:byt>    <dbl> <int> <dbl>   <bch:tm> <list>     <list>     <list>     <list>  
+1 grid_results <- all_workflows %>% workflow_map(seed = 42069, resam… 36.5m  36.5m  0.000457    2.15GB  0.00594     1    13      36.5m <wrkflw_s> <Rprofmem> <bench_tm> <tibble>
+Warning messages:
+1: All models failed. Run `show_notes(.Last.tune.result)` for more information. 
+2: All models failed. Run `show_notes(.Last.tune.result)` for more information. 
+3: All models failed. Run `show_notes(.Last.tune.result)` for more information. 
+4: All models failed. Run `show_notes(.Last.tune.result)` for more information. 
+5: Some expressions had a GC in every iteration; so filtering is disabled. 
